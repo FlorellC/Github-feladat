@@ -1,3 +1,4 @@
 # Github-feladat teszt
 "Végre hát leszállt az éj.
-A Hold is elbújt, borzad, tőlem fél."
+A Hold is elbújt, borzad, tőlem fél.
+A sötétség tengerén nincs csalfa fénysugár."
